@@ -132,3 +132,13 @@ color: rgba(39, 39, 39, 0.60);
     text-align: center;
     
 }
+.fourth{
+    margin-top: 130px;
+    text-align: center;
+}
+.fourth-pic{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0px 200px;
+}
