@@ -89,3 +89,27 @@ color: rgba(39, 39, 39, 0.60);
     font-weight: 700;
     color: #272727;
 }
+.second{
+    background-color: rgba(39, 39, 39, 0.05);
+    border-radius: 10px;
+    padding: 80px ;
+   margin-top: 150px;
+    width: 1280px;
+    margin-left: 240px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.second-pic{
+    padding: 20px;
+    margin-left: 100px;
+}
+ .call{
+    padding: 20px;
+    margin-left: 40px;
+ }
+.second-head{
+    font-size: 25px;
+    font-weight: 500;
+    color: rgba(39, 39, 39, 0.80);
+}
