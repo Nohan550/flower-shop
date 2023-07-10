@@ -163,3 +163,28 @@ color: rgba(39, 39, 39, 0.60);
 .email{
     padding: 20px;
 }
+span{
+    color: #E55473;
+}
+footer{
+    background-color: #111010;
+    text-align: center;
+    padding: 130px;
+    
+}
+.title{
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.des{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 20px;
+    font-weight: 400;
+}
+.des2{
+    font-size: 15px;
+    font-weight: 400;
+    color:  rgba(255, 255, 255, 0.40);
+}
