@@ -41,6 +41,7 @@ color: rgba(39, 39, 39, 0.60);
     font-size: 20px;
 }
 .first{
+    margin-top: 170px;
     text-align: center;
     padding: 0px 240px;
 }
@@ -112,4 +113,22 @@ color: rgba(39, 39, 39, 0.60);
     font-size: 25px;
     font-weight: 500;
     color: rgba(39, 39, 39, 0.80);
+}
+.third{
+    padding: 100px;
+    margin-top: 100px;
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 180px;
+   
+}
+.third-head{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    
 }
