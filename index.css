@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding:0;
+  
+}
+.banner{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 85vh;
+    background: rgba(229, 84, 115, 0.10); 
+    padding:50px 230px 0px 230px ;
+    text-align: start;
+    
+}
+.banner-info{
+  width: 600px;
+  margin-bottom: 50px;
+}
+ 
+.banner-title{
+    font-size: 70px;
+    font-weight: 800; 
+    color: #272727;
+}
+
+.banner-des{
+    font-size: 20px ;
+font-weight: 200;
+color: rgba(39, 39, 39, 0.60);
+}
+
+.banner-btn{
+
+    background-color: #E55473;
+    color: aliceblue;
+    padding: 20px 43px;
+    border: 0;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px;
+}
