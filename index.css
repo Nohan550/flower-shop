@@ -83,6 +83,8 @@ color: rgba(39, 39, 39, 0.60);
     font-weight: 300;
     width: 600px;
     margin: auto;
+    border: 0;
+    border-radius: 5px;
 }
 .first-head{
     padding-top: 20px;
@@ -141,4 +143,23 @@ color: rgba(39, 39, 39, 0.60);
     justify-content: space-evenly;
     align-items: center;
     margin: 0px 200px;
+}
+.fifth{
+    margin-top: 130px;
+    margin-bottom: 130px;
+    text-align: center;
+    background-image: url('Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    padding: 120px;
+    
+
+}
+.contact{
+    display: inline-flex;
+    gap: 10px;
+}
+.email{
+    padding: 20px;
 }
