@@ -188,3 +188,87 @@ footer{
     font-weight: 400;
     color:  rgba(255, 255, 255, 0.40);
 }
+.hide{
+    display: none;
+}
+@media  screen and (max-width:576px) {
+    footer{
+        width: 102%;
+        padding: 5px;
+     margin-right: -10px;
+      
+    }
+    .des{
+        width: 50%;
+    }
+    .fifth{
+       
+        width: 100%;
+        padding: 10px;
+       margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .fifth>.first-title{
+
+        width: auto;
+      
+    }
+    
+    .contact{
+        flex-direction: column;
+        width: 50%;
+    }
+    .fourth-pic{
+        flex-direction: column;
+       }
+       .first-des{
+        width: 50%;
+        
+       }
+         
+   .email{
+    width: auto;
+}
+ .third{
+    flex-direction: column;
+ }
+ .second{
+    flex-direction: column;
+    width: 100%;
+  margin-left: 0;
+  padding: 5px;
+   gap: 30px;
+}
+.first-photos {
+    flex-direction: column;
+    gap: 30px;
+}
+.des1{
+    width: 200%;
+   
+}
+
+
+.banner-photo{
+    display: none;
+}
+.banner-info{
+    width: 100%;
+   
+}
+.banner-title{
+    width: 200%;
+    font-size: 20px;
+}
+.banner-des{
+    font-size: 12px;
+    width: 200%;
+}
+.banner-btn{
+    font-size: 15px;
+    padding: 10px 20px;
+}
+}
+    
+  
+ 
